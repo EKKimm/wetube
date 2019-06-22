@@ -1,0 +1,10 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "Cloning youtube",
+  "main": "index.js",
+  "author": "eun-kyoung Kim",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

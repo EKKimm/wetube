@@ -7,8 +7,8 @@ Cloning youtube with Vanila and NodeJS
 - ~~Login~~
 - ~~Search~~
 - User Detail
-- Edit Profile
-- Change Password
-- Upload
+- ~~Edit Profile~~
+- ~~Change Password~~
+- ~~Upload~~
 - Video Detail
-- Edit Video
+- ~~Edit Video~~

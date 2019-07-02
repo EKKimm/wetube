@@ -3,8 +3,8 @@ Cloning youtube with Vanila and NodeJS
 
 ## Pages:
 - Home
-- Join
-- Login
+- ~~Join~~
+- ~~Login~~
 - ~~Search~~
 - User Detail
 - Edit Profile

@@ -17,7 +17,7 @@ app.use(helmet());
 app.use(cookieParser());
 app.use("/uploads", express.static("uploads"));
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({extended: true}));
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(morgan("dev"));
 
 app.use(localsMiddleware);

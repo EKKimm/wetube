@@ -15,11 +15,7 @@ import { localsMiddleware } from "./midleware";
 
 import "./passport";
 
-import dotenv from "dotenv";
-dotenv.config();
-
 const app = express();
-
 const CookieStore = MongoStore(session);
 
 app.set("view engine", "pug");
